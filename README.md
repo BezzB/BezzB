@@ -23,3 +23,15 @@ I am proficient in programming languages such as JavaScript, HTML, CSS, and fram
 ## Conclusion
 
 I am excited about the prospect of joining your team and contributing my skills to help you achieve your goals. Thank you for considering my application, and I look forward to hearing from you soon.
+
+## Leaderboard-Setup
+
+I recently completed the Leaderboard-Setup project, which is available on my GitHub repository [here](https://github.com/BezzB/Leaderboard-setup-project).
+
+The project is a leaderboard that displays scores fetched from an API using JavaScript. I utilized DOM manipulation, asynchronous programming, and API integration to create a dynamic web application that presents the data in an organized and visually appealing way.
+
+The project is built using HTML, CSS, and JavaScript and is optimized for responsiveness across different devices. The code is well-structured and easy to read, with descriptive variable names and comments that explain the logic behind the code.
+
+I also added error handling and loading animations to improve the user experience and make the application more user-friendly.
+
+Overall, the Leaderboard-Setup project demonstrates my proficiency in web development and showcases my ability to create dynamic and responsive web applications. I am excited to continue building my skills and contributing to innovative projects in the future.
