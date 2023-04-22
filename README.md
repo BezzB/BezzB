@@ -6,7 +6,7 @@ As a Full Stack Developer, I have completed Microverse's Front End Course, where
 
 ## Leaderboard-Setup
 
-I have created a Leaderboard using HTML, CSS, and JavaScript, which utilized my skills in DOM manipulation, asynchronous programming, and API integration. This project showcases my ability to create dynamic web applications that can retrieve data from external sources and present them in an organized and visually appealing way. You can check out the project on my [GitHub repository](https://github.com/BezzB/Leaderboard-setup-project).
+I have created a Leaderboard using HTML, CSS, and JavaScript, which utilized my skills in DOM manipulation, asynchronous programming, and API integration. This project showcases my ability to create dynamic web applications that can retrieve data from external sources and present them in an organized and visually appealing way. You can check out the project on my [GitHub repository](https://github.com/BezzB/Leaderboard-setup).
 
 ## Todolist
 
@@ -26,7 +26,7 @@ I am excited about the prospect of joining your team and contributing my skills 
 
 ## Leaderboard-Setup
 
-I recently completed the Leaderboard-Setup project, which is available on my GitHub repository [here](https://github.com/BezzB/Leaderboard-setup-project).
+I recently completed the Leaderboard-Setup project, which is available on my GitHub repository [here](https://github.com/BezzB/Leaderboard-setup).
 
 The project is a leaderboard that displays scores fetched from an API using JavaScript. I utilized DOM manipulation, asynchronous programming, and API integration to create a dynamic web application that presents the data in an organized and visually appealing way.
 
