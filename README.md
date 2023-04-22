@@ -1,4 +1,4 @@
-# Full Stack Developer Pitch
+# Full Stack Developer
 
 Greetings, potential employers! 
 
