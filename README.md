@@ -1,16 +1,20 @@
-### Hi there 👋
+###Full Stack Developer Pitch
+Greetings, potential employers!
 
-<!--
-**BezzB/BezzB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a Full Stack Developer, I have completed Microverse's Front End Course, where I have gained valuable skills in web development and created impressive projects.
 
-Here are some ideas to get you started:
+I have created a Leaderboard using HTML, CSS, and JavaScript, which utilized my skills in DOM manipulation, asynchronous programming, and API integration. This project showcases my ability to create dynamic web applications that can retrieve data from external sources and present them in an organized and visually appealing way.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I have also developed a Todolist using React, which highlights my skills in React fundamentals and state management. The application allows users to add, delete, and update tasks, and demonstrates my ability to create reusable components and manage state using React hooks.
+
+In addition, I have built a Portfolio website using HTML, CSS, and JavaScript, which highlights my skills in web design and front-end development. I have used CSS to style the website and added animations and transitions to make it visually appealing, showcasing my attention to detail and aesthetics.
+
+I am proficient in programming languages such as JavaScript, HTML, CSS, and frameworks such as React, and I am constantly learning new technologies and tools to enhance my skillset. I am also experienced in Agile methodologies and version control systems such as Git.
+
+I am excited about the prospect of joining your team and contributing my skills to help you achieve your goals. Thank you for considering my application, and I look forward to hearing from you soon.
+
+
+
+
+
+
